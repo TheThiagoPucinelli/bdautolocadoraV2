@@ -20,4 +20,11 @@ Este é um sistema web desenvolvido para gerenciar locações de veículos, com 
 - HTML/CSS
 - JS
 
+## Como testar?
 
+- Baixe o arquivo e extraia a pasta
+- Pegue o arquivo SQL do banco de dados e importe ele para o MySQL com nome de "bdautolocadora20252"
+- Abra o XAMPP
+- Através do XAMPP pelo Navegador a sua escolha Acesse o endereço "http://127.0.0.1/bda/index.php"
+  
+# E Pronto.
