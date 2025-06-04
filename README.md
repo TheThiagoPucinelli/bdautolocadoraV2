@@ -1,4 +1,4 @@
-# Sistema de Gestão de Locações de Veículos (Atividade de Linguagem de Programação e Banco de Dados
+# Sistema de Gestão de Locações de Veículos (Atividade de Linguagem de Programação e Banco de Dados) Versão 2.0
 
 ## Descrição
 
