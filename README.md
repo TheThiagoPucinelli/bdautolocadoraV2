@@ -7,6 +7,7 @@ Este é um sistema web desenvolvido para gerenciar locações de veículos, com 
 ## Funcionalidades
 
 - Cadastro, edição e exclusão de marcas de veículos.
+- Cadastro e Login de usuário com uso de SESSION
 - Cadastro, edição e exclusão de veículos vinculados às marcas.
 - Listagem completa de marcas e veículos cadastrados.
 - Controle de sessão com expiração automática após 30 minutos de inatividade.
