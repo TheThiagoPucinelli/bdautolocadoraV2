@@ -28,3 +28,4 @@ Este é um sistema web desenvolvido para gerenciar locações de veículos, com 
 - Através do XAMPP pelo Navegador a sua escolha Acesse o endereço "http://127.0.0.1/bda/index.php"
   
 # E Pronto.
+f
